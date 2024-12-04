@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vinisa.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Devlog'
+theme = 'devlog'
